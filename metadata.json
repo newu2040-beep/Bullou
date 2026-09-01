@@ -1,0 +1,6 @@
+{
+  "name": "Bullou",
+  "description": "A cute minimalist budget planner and expense tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
